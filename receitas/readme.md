@@ -1,10 +1,8 @@
-# livro de receitas :cookie:
+- # livro de receitas :cookie:
 
-## Olá mundo de receitas :kick_scooter:
+  ## Olá mundo de receitas :kick_scooter:
 
-###  - teste de frango
+  ###  - teste de frango
 
-- traço
-- TTT
-- Pavê
+  - Pavê
 
